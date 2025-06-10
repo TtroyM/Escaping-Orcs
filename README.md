@@ -45,7 +45,7 @@
 ---
 
 📸 Screenshots
-+ <!-- Screenshots will be added soon -->
+ <!-- Screenshots will be added soon -->
 ---
 
 🧱 To Do / In Progress
