@@ -1,10 +1,10 @@
-# 🧙 Escaping Orcs
+#  Escaping Orcs
 
 **Escaping Orcs** is a 2D top-down survival game built with Python and Pygame. Play as a wizard battling waves of orcs using projectiles while surviving as long as possible. The game features dynamic enemy AI, adjustable resolutions, sound effects, and a persistent leaderboard.
 
 ---
 
-## 🎮 Features
+##  Features
 
 - Real-time difficulty scaling with progressive orc waves
 - Projectile combat and enemy hit detection
@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠 Requirements
+##  Requirements
 
 - Python 3.8+
 - Pygame  
@@ -24,7 +24,7 @@
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
   ```bash
   git clone https://github.com/TtroyM/Escaping-Orcs.git
@@ -34,7 +34,7 @@
 
 ---
 
-## 🎮 Controls
+## Controls
 
   | Action       | Key/Input        |
   |--------------|------------------|
@@ -44,11 +44,11 @@
 
 ---
 
-📸 Screenshots
+ Screenshots
  <!-- Screenshots will be added soon -->
 ---
 
-🧱 To Do / In Progress
+ To Do / In Progress
   - Add power-ups and new enemy types
 
   - Polish pause menu design
