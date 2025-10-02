@@ -46,6 +46,9 @@
 
  Screenshots
  <!-- Screenshots will be added soon -->
+<img width="1492" height="1196" alt="image" src="https://github.com/user-attachments/assets/94ad7917-1bd1-4f73-90ff-b95c5ee1c85d" />
+
+
 ---
 
  To Do / In Progress
